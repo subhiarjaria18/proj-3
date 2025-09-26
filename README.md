@@ -13,8 +13,6 @@ This is a web application that allows you to upload documents and ask questions 
 
 This project demonstrates how to build a RAG (Retrieval-Augmented Generation) system using LangGraph for workflow management. LangGraph helps orchestrate the different steps in the RAG pipeline, from document processing to answer generation, with built-in error handling and state management.
 
-If you're looking to understand how LangGraph works with RAG systems, this implementation shows practical patterns for building document question-answering applications with proper workflow orchestration.
-
 ## How It Works
 
 Here is what happens when you use this application and the process is actually quite straightforward:
@@ -175,7 +173,7 @@ Before you start, make sure you have these things:
 ### Step 1: Download the Code
 
 ```bash
-git clone https://github.com/chitralputhran/Advanced-RAG-LangGraph.git
+git clone https://github.com/subhiarjaria18/Advanced-RAG-LangGraph.git
 cd Advanced-RAG-LangGraph
 ```
 
